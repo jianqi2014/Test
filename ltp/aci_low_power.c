@@ -25,6 +25,8 @@ enum { __FILE_NUM__= 0 };
 
 extern uint8_t CanEnterDlps;
 
+//just test git
+
 /** @brief the current power state of bee */
 uint8_t LtpPowerState = LTPLL_STATE_AWAKE;
 /** @brief host power stste */
